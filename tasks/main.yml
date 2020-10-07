@@ -1,0 +1,3 @@
+---
+# tasks file for cb-notable-arole
+- include: "{{ ansible_distribution }}/main.yml"

@@ -1,0 +1,4 @@
+---
+- name: Intstall Cask
+  homebrew_cask:
+    name: notable
